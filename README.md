@@ -1,2 +1,2 @@
 # DCOS-Automation
-my projict about dcos automation
+my project about dcos automation
